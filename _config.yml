@@ -146,7 +146,6 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - CNAME
   - Vagrantfile
 
 # prose.io config
